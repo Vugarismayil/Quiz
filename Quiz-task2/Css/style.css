@@ -1,0 +1,12 @@
+.image1{
+    background-image: url(./images/Bitmap.png);
+    background-repeat: no-repeat;
+    height: 720px;
+    width: 1170px;
+}
+.flex{
+    display: flex;
+}
+.image1{
+    padding-right: 20px;
+}
